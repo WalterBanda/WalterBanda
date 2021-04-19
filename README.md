@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Walter Banda GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterBanda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=WalterBanda&count_private=true&theme=dark&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterBanda&langs_count=5&theme=dark)]()
 
 <!--
 **WalterBanda/WalterBanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
