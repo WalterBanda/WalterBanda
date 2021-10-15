@@ -13,7 +13,7 @@ Hi, I'm Walter Banda, a passionate full stack developer from Nairobi 🗺.
   <img alt="Walter Banda | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a> [Twitter](https://twitter.com/walterkaibanda)
 - 😄 Pronouns: 💗💖Bots
-- ⚡ Fun fact: Elon musk help take doge coin to the moon
+- ⚡ Fun fact: Bitcoin 💗 Crypto
 
 **Languages and Tools:**  
 
