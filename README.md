@@ -4,7 +4,6 @@
 -->
 
 Hi, I'm Walter Banda, a passionate full stack developer from Nairobi 🗺.
-- 🔭 I’m currently working on Nipate
 - 🌱 I’m currently learning JavaScript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - 👯 I’m looking to collaborate on Web applications
 - 🤔 I’m looking for help with ...
